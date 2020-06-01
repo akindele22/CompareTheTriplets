@@ -21,11 +21,4 @@ x.append(res2)
 print(res, res1)
 #print(res1)
 
-######################################################
-
-"""
-    Jumping the clouds
-
-n = int(input("Enter a num: "))
-num_J = input("Enter a number of jump: ").split()
-"""
+##############################################
